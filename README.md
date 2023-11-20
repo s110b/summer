@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
+
+# 这个相册不准备继续用了，主要是图片访问慢。打开主页慢。
 
 # Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
 A jekyll website for photographers
